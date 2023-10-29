@@ -1,3 +1,4 @@
 streamlit
 weaviate-client
 langchain
+sentence-transformers
